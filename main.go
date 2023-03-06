@@ -1,4 +1,4 @@
-package go-mod-sample
+package modsample
 
 import "fmt"
 

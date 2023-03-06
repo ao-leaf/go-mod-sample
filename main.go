@@ -10,8 +10,7 @@ func hello() {
 	fmt.Printf("hello")
 }
 
-func main() {
-	fmt.Printf("This is main function.")
+func SayHello() {
 	Hello()
 	hello()
 }
